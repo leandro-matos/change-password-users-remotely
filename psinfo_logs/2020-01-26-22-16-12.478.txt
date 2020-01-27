@@ -1,0 +1,41 @@
+ 
+2020-01-26-22-16-12.478 - PsInfo returns information about a local or remote Windows system. 
+ 
+System information for \\server01:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows Server 2003, Uniprocessor Free
+Product type:              Enterprise Edition
+Product version:           5.2
+Service pack:              2
+Kernel build number:       3790
+Registered organization:   leandro
+Registered owner:          leandro
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           2.5 GHz
+Processor type:            Intel(R) Core(TM) i5-7300HQ CPU @
+Physical memory:           512 MB
+Video driver:              VirtualBox Graphics Adapter
+Volume Type       Format     Label                      Size       Free   Free
+    C: Fixed      NTFS                              19.99 GB   17.87 GB  89.4%
+    D: CD-ROM     CDFS       VBox_GAs_6.0.12        73.62 MB              0.0%
+System information for \\server03:
+Uptime:                    Error reading uptime
+Kernel version:            Microsoft Windows Server 2003, Uniprocessor Free
+Product type:              Enterprise Edition
+Product version:           5.2
+Service pack:              2
+Kernel build number:       3790
+Registered organization:   leandro
+Registered owner:          leandro
+IE version:                6.0000
+System root:               C:\WINDOWS
+Processors:                1
+Processor speed:           2.5 GHz
+Processor type:            Intel(R) Core(TM) i5-7300HQ CPU @
+Physical memory:           512 MB
+Video driver:              VirtualBox Graphics Adapter
+Volume Type       Format     Label                      Size       Free   Free
+    C: Fixed      NTFS                              19.99 GB   17.87 GB  89.4%
+    D: CD-ROM     CDFS       VBox_GAs_6.0.12        73.62 MB              0.0%
